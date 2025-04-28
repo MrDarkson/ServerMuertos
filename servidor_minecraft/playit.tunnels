@@ -85,7 +85,7 @@
           "agent_id": "88e1edaf-26a7-40ad-b7c6-8955ee2cff51",
           "agent_name": "ServerMuertos",
           "local_ip": "127.0.0.1",
-          "local_port": 19132
+          "local_port": 60834
         },
         "type": "agent"
       },
